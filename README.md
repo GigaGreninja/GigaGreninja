@@ -1,1 +1,1 @@
-Hi there! Not much to say about me except that I am a programmer in training.
+Hi there! I'm a Computer Science student and rising college freshman. Feel free to check out my projects!
